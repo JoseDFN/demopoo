@@ -12,3 +12,7 @@ E:\projectsNet\demopoo\obj\Debug\net8.0\refint\demopoo.dll
 E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.pdb
 E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.genruntimeconfig.cache
 E:\projectsNet\demopoo\obj\Debug\net8.0\ref\demopoo.dll
+E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.sourcelink.json
+E:\projectsNet\demopoo\bin\Debug\net8.0\Figgle.dll
+E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.csproj.AssemblyReference.cache
+E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.csproj.Up2Date

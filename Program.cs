@@ -5,11 +5,16 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        string menu = "1. Registrar Club\n2. Registrar Jugador\n3. Listar Clubes\n4. Listar Jugadores\n5. Salir\nSeleccione una opción: ";
         Console.Clear();
+        string[] opcionesMenu = {
+            "1. Registrar Club",
+            "2. Registrar Jugador",
+            "3. Listar Clubes",
+            "4. Listar Jugadores",
+            "5. Salir"
+        };
         Console.WriteLine("Sistema de gestión de la Conmebol Libertadores.");
-        Console.WriteLine(menu);
-        Utilidades.LeerOpcionMenuKey(menu);
+        Utilidades.LeerCaracter("Sistema de gestión de la Libertadores", opcionesMenu);
         // // Crear una instancia de la clase Player
         // List<Club> clubes = new List<Club>();
         // bool continuar = true;
